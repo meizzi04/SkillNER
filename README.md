@@ -1,2 +1,2 @@
-# OpenSource
-3-2 OpenSource - SkillNER
+# 3-2 OpenSource
+SkillNER
