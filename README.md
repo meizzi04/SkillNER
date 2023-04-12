@@ -1,2 +1,2 @@
-# 3-2 OpenSource Project
+# 2022-2 OpenSource Project
 SkillNER
